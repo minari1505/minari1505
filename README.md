@@ -12,5 +12,5 @@
 
 ---
 ![Mina Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minari1505&show_icons=true&count_private=true&bg_color=70,fff2bb,ffffff&title_color=000000&text_color=5c7199) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minari1505&layout=compact&count_private=true&show_repo=frontend-gamma-hazel-40.vercel.app&bg_color=60,fff2bb,ffffff&title_color=abd200&text_color=5c7199)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minari1505&show_icons=ture&bg_color=70,fff2bb,ffffff&title_color=000000&text_color=5c7199&layout=compact)
 </div>
