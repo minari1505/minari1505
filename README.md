@@ -11,7 +11,7 @@
 <br><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=ffffff"/>
 
 ---
-![Mina Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minari1505&show_icons=true&count_private=True&bg_color=70,fff2bb,ffffff&title_color=000000&text_color=5c7199) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minari1505&layout=donut&count_private=True&bg_color=60,fff2bb,ffffff&title_color=000000&text_color=5c7199)
+![Mina Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minari1505&show_icons=true&count_private=true&bg_color=70,fff2bb,ffffff&title_color=000000&text_color=5c7199) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minari1505&layout=donut&count_private=true&bg_color=60,fff2bb,ffffff&title_color=000000&text_color=5c7199)
 
 </div>
