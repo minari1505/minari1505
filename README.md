@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/><br>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=ffffff"/>
 <br><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macOS&logoColor=ffffff"/>
-<br><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHHub&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=ffffff"/>
+<br><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=ffffff"/>
 <br><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=ffffff"/>
 <br><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/> <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=ffffff"/>
 ---
